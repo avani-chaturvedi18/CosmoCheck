@@ -1,1 +1,1 @@
-# AWT-Project
+# Cosmetics Quality Analyzer
